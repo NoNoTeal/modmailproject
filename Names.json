@@ -1,4 +1,4 @@
 {
-  "329023088517971969": ["Type A", "Type B", "Type C"],
-  "196188877885538304": ["Type A", "Type B", "Type C"]
+  "329023088517971969": ["Type A - Bot Owner", "Type B - Contributor", "Type C - Verified"],
+  "196188877885538304": ["Type A - Bot Co-owner", "Type B - Contributor", "Type C - Verified"]
 }
